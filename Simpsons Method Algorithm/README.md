@@ -4,8 +4,8 @@ This function approximates the integral of experimental data using Simpson's Com
 ## Input and Output Descriptions:
 
 Inputs:
-1. x - x matrix for the data points        *Must be evenly spaced*
-2. y - y matrix for the data points        *Must be same length as the x matrix*
+1. x - x matrix for the data points    --*Must be evenly spaced*
+2. y - y matrix for the data points    --*Must be same length as the x matrix*
 
 Outputs:
 1. I - calculated integral
