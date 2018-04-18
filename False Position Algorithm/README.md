@@ -9,8 +9,8 @@ Inputs:
 1. func - the function being evaluated
 2. xl - the lower guess
 3. xu - the upper guess
-4. es - the desired relative error            *Default = .00001%*
-5. maxiter - the number of iterations desired *Default = 200*
+4. es - the desired relative error            --*Default = .00001%*
+5. maxiter - the number of iterations desired --*Default = 200*
 
 Outputs:
 
